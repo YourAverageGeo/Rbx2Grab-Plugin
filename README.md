@@ -18,6 +18,8 @@ A plugin branching off from .Index's roblox script, Instructions are similar.
 - When finished a .json file will be created in the folder with `server.py`
 - To convert it to a .level file see [Slin/GRAB-Level-Format](https://github.com/Slin/GRAB-Level-Format) (`tools/ConvertToLevel.py`) or [grab-tools.live](https://grab-tools.live/editor).
 
+Try out this free model `NodeTesting.rbxm` to give an understanding on how this plugin works
+
 ## Credits
 - [@.index](https://github.com/twhlynch) Duh
 - @person615 (Discord) Created the first version / proof of concept.
