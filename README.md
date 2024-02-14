@@ -9,3 +9,11 @@ A plugin branching off from .Index's roblox script, Instructions are similar.
 
 - Run `pip install flask` to install flask
 - Run `python server.py` to start the server on `https://127.0.0.1:5000`
+
+### Usage (Roblox Studio)
+
+- Click on `Rbx2Grab` located in `Plugins`
+- Select desired model / folder
+- Press `OK`
+
+#Credits
