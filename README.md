@@ -15,5 +15,10 @@ A plugin branching off from .Index's roblox script, Instructions are similar.
 - Click on `Rbx2Grab` located in `Plugins`
 - Select desired model / folder
 - Press `OK`
+- When finished a .json file will be created in the folder with `server.py`
+- To convert it to a .level file see [Slin/GRAB-Level-Format](https://github.com/Slin/GRAB-Level-Format) (`tools/ConvertToLevel.py`) or [grab-tools.live](https://grab-tools.live/editor).
 
-#Credits
+## Credits
+- [@.index](https://github.com/twhlynch) Duh
+- @person615 (Discord) Created the first version / proof of concept.
+- [@Slin](https://github.com/Slin) Created Grab and the level format.
