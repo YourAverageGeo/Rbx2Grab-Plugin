@@ -3,7 +3,7 @@ A plugin branching off from .Index's roblox script, Instructions are similar.
 
 ### Setup Plugin
 
-- Install [`Rbx2Grab`](https://create.roblox.com/store/asset/16359944935/Rbx2Grab%3Fkeyword=&pageNumber=&pagePosition=)
+- Install [Rbx2Grab](https://create.roblox.com/store/asset/16359944935/Rbx2Grab%3Fkeyword=&pageNumber=&pagePosition=)
 
 ### Setup Server
 
